@@ -8,7 +8,7 @@ Under guidance of Dr. Gaurav Verma
 - SVM Classifier
 
 ## Results
-- Phase Only Correlation: 95%
+- Phase Only Correlation: 76.25%
 - MACE + SVM: 66.25%
 
 ## Requirements
